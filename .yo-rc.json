@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.5.1",
+    "libraryName": "react-pnp-example",
+    "libraryId": "292c3c43-fe14-4be3-ad61-84085766e317",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

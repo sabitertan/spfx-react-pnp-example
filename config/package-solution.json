@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-pnp-example-client-side-solution",
+    "id": "292c3c43-fe14-4be3-ad61-84085766e317",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-pnp-example.sppkg"
+  }
+}

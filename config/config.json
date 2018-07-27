@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spFxReactPnpExample/SpFxReactPnpExampleWebPart.js",
+      "manifest": "./src/webparts/spFxReactPnpExample/SpFxReactPnpExampleWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-react-pnp-example-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SpFxReactPnpExampleWebPartStrings": "webparts/spFxReactPnpExample/loc/{locale}.js"
+  }
+}
