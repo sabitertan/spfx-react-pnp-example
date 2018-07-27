@@ -45,3 +45,15 @@ This package produces the following:
 - gulp serve - TODO
 - gulp bundle - TODO
 - gulp package-solution - TODO
+
+## References
+- [Development Environmont for SPFx and PNP](https://github.com/sabitertan/spfx-pnp-env)
+- [Set up your SharePoint Framework development environment](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-development-environment)
+- [Build your first SharePoint client-side web part](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part)
+- [SharePoint Framework Client-Side Web Part Samples & Tutorial Materials](https://github.com/SharePoint/sp-dev-fx-webparts)
+- [Use sp-pnp-js with SharePoint Framework web parts](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/guidance/use-sp-pnp-js-with-spfx-web-parts)
+- [PnPjs: Client Side Libraries for Microsoft 365](https://pnp.github.io/pnpjs/)
+- [Workaround for SPFx TypeScript Version](https://pnp.github.io/pnpjs/SPFx-On-Premesis-2016.html)
+- [TypeScript React Starter](https://github.com/Microsoft/TypeScript-React-Starter)
+
+
