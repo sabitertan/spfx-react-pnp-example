@@ -1,7 +1,7 @@
 ## SPFx React PNP example
 
-This is a boilerplate example using SPFx with React and @pnp/sp
-
+This is a boilerplate example using SPFx with React and @pnp/sp  
+Target environment is On-prem Sharepoint 2016, but should work fine Sharepoint Online
 ### Clone repo and install dependencies
 
 ```bash
