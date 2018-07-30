@@ -24,7 +24,7 @@ Before proceed further we need a little trick:
 
 Run `gulp serve`
 
-Test on you development environment, this example assumes you have:
+Test on your development environment, this example assumes you have:
  - a SP list named `PeopleList`
  - `PeopleList` have columns
    - `ID`
@@ -37,14 +37,15 @@ This package produces the following:
 * lib/* - intermediate-stage commonjs build artifacts
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
+* temp/* - temporary development files served to browser.
 
 ### Build options
 
-- gulp clean - TODO
-- gulp test - TODO
-- gulp serve - TODO
-- gulp bundle - TODO
-- gulp package-solution - TODO
+- gulp clean - deletes lib/*, dist/*, deploy/*, temp/* folders and their contents
+- gulp test - Run test against your solution
+- gulp serve - Build and preview your web part
+- gulp bundle - build solution for production
+- gulp package-solution - package solution for production
 
 ## References
 - [Development Environmont for SPFx and PNP](https://github.com/sabitertan/spfx-pnp-env)
