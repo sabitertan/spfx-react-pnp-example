@@ -5,7 +5,7 @@ Target environment is On-prem Sharepoint 2016, but should work fine Sharepoint O
 ### Clone repo and install dependencies
 
 ```bash
-git clone the repo
+git clone https://github.com/sabitertan/spfx-react-pnp-example/
 npm i
 ```
 
